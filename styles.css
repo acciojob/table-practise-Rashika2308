@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+
+    table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+    table {
+      background-color: yellow;
+      margin: auto;
+    }
+    th, td {
+      padding: 10px;
+      text-align: center;
+    }
+    caption {
+      font-size: 24px;
+      font-weight: bold;
+      padding: 10px;
+    }
+    th {
+      font-weight: bold;
+    }
